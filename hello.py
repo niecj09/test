@@ -1,2 +1,2 @@
 print('hello world')
-a = 123
+a = 123000
